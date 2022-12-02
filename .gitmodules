@@ -1,0 +1,6 @@
+[submodule "gnl"]
+	path = gnl
+	url = https://github.com/davitmartirosyan/42-yerevan-get-next-line.git
+[submodule "libft"]
+	path = libft
+	url = https://github.com/davitmartirosyan/42-yerevan-libft.git
